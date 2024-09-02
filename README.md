@@ -1,5 +1,9 @@
 # Simulating Multi-GPU Distributed Deep Learning on a Single GPU with Dynamic Memory Management
 
+![image](https://github.com/user-attachments/assets/8ae50dcc-fc06-49e5-b8fa-22af9e0f8b57)
+
+![image](https://github.com/user-attachments/assets/27bed86f-cbb3-429d-8789-4bddb6e95817)
+
 ## Introduction
 
 This project explores the concept of simulating a multi-GPU environment using only a single GPU. By dynamically managing memory and using PyTorch and PyTorch Lightning, it allows users to experience distributed deep learning training methods without the need for multiple physical GPUs.
