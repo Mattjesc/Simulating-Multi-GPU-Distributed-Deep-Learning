@@ -67,7 +67,7 @@ This project explores the concept of simulating a multi-GPU environment using on
 
 1. **Run the main script**:
    ```bash
-   python main.py
+   python Complete_Run.py
    ```
    This will initiate the training process and start simulating GPU memory usage.
 
